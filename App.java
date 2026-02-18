@@ -26,7 +26,7 @@ java Nome.java   → executa direto (Java 11+)
 
 */
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!");
     }
